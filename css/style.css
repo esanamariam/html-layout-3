@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+
+}
+.Header{
+width: 100%;
+background-color: darkorchid;
+text-align: center;
+}
+.Header h1{
+color: ghostwhite;
+}
+.HeaderBar{
+    background-color: gold;
+    height: 50px;
+    text-align: center;
+    padding: 10px;
+    
+}
+.HeaderBar h1{
+    color:darkslateblue;
+}
+.article{
+    overflow:hidden;
+}
+.Index{
+    background-color: darkolivegreen;
+    width: 20%;
+    float: left;
+    height: 200px;
+    text-align: center;
+    
+}
+.Index h1{
+    color: #fff;
+    padding-top: 70px;
+    
+}
+.Content{
+    background-color: indianred;
+    width: 80%;
+   float: right;
+   height: 200px;
+   text-align: center;
+}
+.Content h1{
+    padding-top: 70px;
+    color:darkred;
+}
+footer{
+    background-color: darkblue;
+    height: 200px;
+    text-align: center;
+}
+footer h1{
+    color: #fff;
+    padding-top: 70px;
+}
